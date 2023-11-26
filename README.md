@@ -11,10 +11,10 @@ Bem vindo as detona Ralph Game JS! Nesse repositório, você encontrará um jogo
 
 ## Como Jogar
 1. Clone este repositório para sua maquina local.
-2. Abra o arquivo `index.html` em sua navegador web.
+2. Abra o arquivo `index.html` em seu navegador web.
 3. Agora é só se divertir.
 
-[Clique aqui](https://glauciofelix.github.io/detona-ralph-game-js/) para acessar o resultado final da landing page criada a partir do desafio!
+[Clique aqui](https://glauciofelix.github.io/detona_ralph_game_js/) para acessar o resultado final desse desafio!
 
 ![image](./src/images/layout.jpeg)
 
