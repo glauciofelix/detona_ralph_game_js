@@ -16,7 +16,7 @@ Bem vindo as detona Ralph Game JS! Nesse repositório, você encontrará um jogo
 
 [Clique aqui](https://glauciofelix.github.io/detona-ralph-game-js/) para acessar o resultado final da landing page criada a partir do desafio!
 
-![image](detona-ralph-aula/src/images/layout.jpeg)
+![image](./src/images/layout.jpeg)
 
 ---
 
